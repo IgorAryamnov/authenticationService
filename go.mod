@@ -1,4 +1,4 @@
-module example/web-service-gin
+module example/authService
 
 go 1.22.1
 
